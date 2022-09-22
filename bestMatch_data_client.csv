@@ -1,0 +1,9 @@
+clientid,clientname,expertise,LANGUAGE,sex,lat,lon,area,assets
+1,Jasmine,Credit Counselling,French,Woman,43.731,79.762,Yes,"$100,000 - $249,999"
+2,Mihee,Estate Planning,Persian,Man,43.589,79.644,Yes,"Over $5,000,000"
+3,Young,Group Benefits,Italian,D,43.589,79.644,Yes,"$25,000 - $99,999"
+4,Selvi,Tax planning,Tamil,D,43.653,79.383,No,"$250,000 - $999,999"
+5,Jasmine1,Credit Counselling,French,D,43.731,79.762,No,"$100,000 - $249,999"
+6,Mihee1,Estate Planning,Persian,D,43.589,79.644,No,"Over $5,000,000"
+7,Young1,Group Benefits,Italian,D,43.589,79.644,No,"$25,000 - $99,999"
+8,Selvi1,Tax planning,Tamil,D,43.653,79.383,No,"$250,000 - $999,999"
